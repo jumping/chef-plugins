@@ -1,4 +1,4 @@
 chef-plugins
 ============
 
-Open Source Knife &amp; Ohai plugins
+Open Source Knife &amp; Ohai plugins.
